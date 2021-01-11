@@ -1,0 +1,39 @@
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10001; rev:1;)
+
+alert tcp any any -> any 443 (msg:"netflix.com access"; content:"netflix.com"; sid:10002; rev:1;)
+
+alert tcp any any -> any 80 (msg:"qt.io access"; content:"GET /"; content:"Host: "; content:"qt.io"; sid:10003; rev:1;)
+
+alert tcp any any -> any 443 (msg:"naver access"; content:"naver.com"; sid:10004; rev:1;)
+
+alert tcp any any -> any 80 (msg:"daum access"; content:"GET /"; content:"Host: "; content:"daum.net"; sid:10005; rev:1;)
+
+alert tcp any any -> any 80 (msg:"nate access"; content:"GET /"; content:"Host: "; content:"nate.com"; sid:10006; rev:1;)
+
+alert tcp any any -> any 443 (msg:"youtube access"; content:"youtube.com"; sid:10007; rev:1;)
+
+alert tcp any any -> any 443 (msg:"github access"; content:"github.com"; sid:10008; rev:1;)
+
+alert tcp any any -> any 443 (msg:"kakao access"; content:"kakaocorp.com"; sid:10009; rev:1;)
+
+alert tcp any any -> any 443 (msg:"jandi access"; content:"jandi.com"; sid:10010; rev:1;)
+
+alert tcp any any -> any 443 (msg:"slack access"; content:"slack.com"; sid:10011; rev:1;)
+
+alert tcp any any -> any 443 (msg:"google access"; content:"google.com"; sid:10012; rev:1;)
+
+alert tcp any any -> any 443 (msg:"msn access"; content:"msn.com"; sid:10013; rev:1;)
+
+alert tcp any any -> any 80 (msg:"forensic-proof access"; content:"forensic-proof.com"; sid:10014; rev:1;)
+
+alert tcp any any -> any 443 (msg:"mma access"; content:"mma.go.kr"; sid:10015; rev:1;)
+
+alert tcp any any -> any 443 (msg:"katcmil access"; content:"katc.mil.kr"; sid:10016; rev:1;)
+
+alert tcp any any -> any 443 (msg:"policegokr access"; content:"police.go.kr"; sid:10017; rev:1;)
+
+alert tcp any any -> any 443 (msg:"nexon access"; content:"nexon.com"; sid:10018; rev:1;)
+
+alert tcp any any -> any 443 (msg:"hangame access"; content:"hangame.com"; sid:10019; rev:1;)
+
+alert tcp any any -> any 80 (msg:"netmarble access"; content:"netmarble.net"; sid:10020; rev:1;)

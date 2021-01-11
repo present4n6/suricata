@@ -1,0 +1,700 @@
+01/11/2021-01:25:35.151713  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.151794  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.318978  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.319031  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.159009  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:59274 -> 34.107.221.82:80
+01/11/2021-01:25:35.168013  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:59274 -> 34.107.221.82:80
+01/11/2021-01:25:35.168238  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:59274 -> 34.107.221.82:80
+01/11/2021-01:25:35.177549  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:59274 -> 34.107.221.82:80
+01/11/2021-01:25:35.369051  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.377424  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.378653  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.392407  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.392536  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.410714  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.411954  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.417861  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.470473  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.519613  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.519664  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.795908  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.795951  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.825817  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.825878  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.835215  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:35.870636  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.870681  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.874450  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:35.874535  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:35.890338  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.890388  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.914999  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:35.921139  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.921196  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:35.529855  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.658828  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.659528  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.802803  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.802848  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.806166  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.843583  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.850761  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.851526  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.860534  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.862060  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.865955  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.866172  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.921242  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:35.929855  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:35.939253  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:35.954199  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:35.595947  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.615262  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.761611  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.791226  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.792624  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.792834  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.794329  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.794534  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.794849  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.871388  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.871506  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.871641  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.871792  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.871897  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.871955  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.872062  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.872163  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.872236  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.872329  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.872422  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.873264  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.873409  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.873527  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.873604  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.873701  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.873797  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.882952  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.889563  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.892580  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.892910  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.893023  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.893247  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.893542  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.893816  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.894102  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.894209  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.895025  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.895360  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.895386  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.895405  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.896248  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.896826  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.901791  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.901964  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.902802  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903080  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903172  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903188  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903203  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903421  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903442  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.903637  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.905191  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:35.905360  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.054722  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.055450  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.080216  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.081320  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.129986  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60348 -> 44.237.173.75:443
+01/11/2021-01:25:36.153454  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.162026  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.162824  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.108290  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.108877  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.109469  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.109545  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.109615  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.109740  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122574  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122665  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122702  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122733  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122749  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122773  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.122792  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123119  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123201  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123248  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123295  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123353  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123400  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123435  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.123701  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.135069  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.136392  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.136669  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.138240  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.138551  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.138744  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.138801  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.138852  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139137  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139157  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139437  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139466  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139481  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139733  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139773  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139797  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139816  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.139948  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.156758  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.169184  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.169677  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.169939  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.223031  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.224733  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.226108  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.226244  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.281181  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.350077  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.350535  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.350575  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.382514  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:36.505551  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.505592  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.505735  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.508645  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.612559  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56748 -> 44.236.48.31:443
+01/11/2021-01:25:36.648650  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.648852  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.173123  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.182772  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:36.219838  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:36.235432  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.236049  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.236094  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.238781  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.238976  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.244196  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.244385  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.297771  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.302152  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.302228  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.370228  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.370282  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.370577  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55696 -> 34.98.75.36:443
+01/11/2021-01:25:36.515064  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.515179  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.623820  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.623940  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.171041  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.247719  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.315443  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:46706 -> 61.111.58.26:80
+01/11/2021-01:25:36.322648  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:46706 -> 61.111.58.26:80
+01/11/2021-01:25:36.322753  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:46706 -> 61.111.58.26:80
+01/11/2021-01:25:36.329457  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:46706 -> 61.111.58.26:80
+01/11/2021-01:25:36.378753  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.379500  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.512285  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.513825  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.523279  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53468 -> 117.18.237.29:80
+01/11/2021-01:25:36.560441  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53468 -> 117.18.237.29:80
+01/11/2021-01:25:36.560581  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53468 -> 117.18.237.29:80
+01/11/2021-01:25:36.582714  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.596954  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53468 -> 117.18.237.29:80
+01/11/2021-01:25:36.598286  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.598593  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.598880  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.599088  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.599661  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.792018  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.821508  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:36.748283  [**] [1:2240001:1] SURICATA DNS Unsollicited response [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.2:53 -> 192.168.153.131:45098
+01/11/2021-01:25:36.685826  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.777098  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33910 -> 44.233.8.168:443
+01/11/2021-01:25:36.789560  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.789721  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.808204  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.821120  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:52778 -> 104.18.165.34:443
+01/11/2021-01:25:36.840041  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.847705  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.848467  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.858479  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.860287  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.861110  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.861257  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.878093  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.878287  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.790867  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.878505  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.790918  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.878720  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.791574  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.879483  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.791644  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.879616  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.880296  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.887486  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.880508  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.887544  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.885632  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.885856  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.886097  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.886711  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.886932  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.887872  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.896065  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.896293  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.896543  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.896787  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.897511  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.897744  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.898482  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.898717  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.899442  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.899676  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.900458  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.900665  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.901389  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.901585  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.903620  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.903842  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.903887  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.903997  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.904980  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.905007  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.905831  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.906007  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.906733  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.907006  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.907688  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.907948  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.908820  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.908891  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.909516  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.909790  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.910275  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.910497  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.910684  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.911181  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.911419  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.911605  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.911951  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.912461  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.912701  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.912761  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.913384  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.913691  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.913857  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.914127  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.914365  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.914599  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.914926  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.915199  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.915253  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.915460  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.915654  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.915909  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.918399  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.926158  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.927061  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.932670  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.935864  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.936283  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.939992  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:36.944888  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.952814  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.953837  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.964950  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.935472  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.966459  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:36.935567  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.967161  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.363297  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.972378  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:37.363415  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:36.972408  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.972432  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.973408  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.973465  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.975090  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:36.985758  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43590 -> 13.35.101.116:443
+01/11/2021-01:25:37.025746  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58100 -> 13.225.118.100:443
+01/11/2021-01:25:37.141220  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.141453  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.142847  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.146748  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.147010  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.147044  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.291012  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.328319  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:37.328353  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:37.328442  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:37.355511  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:37.356596  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:37.358274  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:37.434821  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34982 -> 99.84.192.162:443
+01/11/2021-01:25:37.714478  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:37.867706  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:37.868419  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:38.027211  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:38.024650  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:38.026632  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:38.066921  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53454 -> 117.18.237.29:80
+01/11/2021-01:25:38.070799  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:38.229858  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:38.409189  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.339634  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54250 -> 35.155.76.53:443
+01/11/2021-01:25:38.409283  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.409368  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.409633  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.417115  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.417215  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.417369  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.417413  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.463595  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.463638  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.974159  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.981677  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.471657  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.471721  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:38.982662  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.992699  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.992874  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.994461  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.995292  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.995558  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:38.995595  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:39.002005  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:39.010024  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:39.010263  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58016 -> 13.225.118.55:443
+01/11/2021-01:25:39.437864  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.734405  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.734473  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.836414  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.844499  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.852910  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.960157  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:39.860673  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.997457  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:39.901809  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54928 -> 13.225.122.10:443
+01/11/2021-01:25:39.953344  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:39.953422  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:39.998479  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:40.071715  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:40.139112  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45274 -> 172.217.175.35:80
+01/11/2021-01:25:40.181212  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45274 -> 172.217.175.35:80
+01/11/2021-01:25:40.060124  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.181412  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45274 -> 172.217.175.35:80
+01/11/2021-01:25:40.252152  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45274 -> 172.217.175.35:80
+01/11/2021-01:25:40.352974  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60320 -> 172.217.26.36:443
+01/11/2021-01:25:40.255166  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:40.405960  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60320 -> 172.217.26.36:443
+01/11/2021-01:25:40.255345  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:40.406687  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60320 -> 172.217.26.36:443
+01/11/2021-01:25:40.340283  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:40.478327  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60320 -> 172.217.26.36:443
+01/11/2021-01:25:40.340477  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60316 -> 172.217.26.36:443
+01/11/2021-01:25:40.489003  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:49944 -> 216.58.197.163:80
+01/11/2021-01:25:40.060297  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.068930  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.068995  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.073621  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.073676  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.081338  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.081396  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.090237  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.090297  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.107918  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.107983  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.113677  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.113742  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.120080  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.120135  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.126070  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.126130  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.345010  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.345067  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.481108  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.481178  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:40.525842  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:49944 -> 216.58.197.163:80
+01/11/2021-01:25:40.594764  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.537483  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60320 -> 172.217.26.36:443
+01/11/2021-01:25:40.525983  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:49944 -> 216.58.197.163:80
+01/11/2021-01:25:40.631528  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.601809  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:49944 -> 216.58.197.163:80
+01/11/2021-01:25:40.632254  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.707696  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.709508  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.709747  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.709789  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.789922  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.813468  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.872880  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.890732  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:40.947280  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.075191  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.099859  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.100099  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.132022  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.199109  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.256061  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.285373  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60324 -> 172.217.26.36:443
+01/11/2021-01:25:41.673216  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40548 -> 216.58.220.142:80
+01/11/2021-01:25:41.794205  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.711574  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40548 -> 216.58.220.142:80
+01/11/2021-01:25:41.711797  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40548 -> 216.58.220.142:80
+01/11/2021-01:25:41.831630  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.791885  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40548 -> 216.58.220.142:80
+01/11/2021-01:25:41.832357  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.907540  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45274 -> 172.217.175.35:80
+01/11/2021-01:25:41.905548  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.980661  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45274 -> 172.217.175.35:80
+01/11/2021-01:25:41.981479  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.665688  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:41.981729  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.981787  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.020077  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.020394  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:41.665802  [**] [1:2200075:1] SURICATA UDPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.153.131:45098 -> 192.168.153.2:53
+01/11/2021-01:25:42.102466  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.105680  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.105823  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.105846  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.105997  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.122818  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.246087  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.247038  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.248939  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54254 -> 216.58.220.142:443
+01/11/2021-01:25:42.122224  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-01:25:42.161059  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-01:25:42.161856  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-01:25:42.234029  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-01:25:42.234177  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-01:25:42.235519  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-01:25:42.235726  [**] [1:2200074:1] SURICATA TCPv4 invalid checksum [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53496 -> 172.217.31.142:443
+01/11/2021-02:11:04.330959  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38298 -> 175.213.35.39:80
+01/11/2021-02:11:04.546120  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38300 -> 175.213.35.39:80
+01/11/2021-02:11:04.726860  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38296 -> 175.213.35.39:80
+01/11/2021-02:11:05.261085  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38298 -> 175.213.35.39:80
+01/11/2021-02:11:05.404789  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38296 -> 175.213.35.39:80
+01/11/2021-02:11:05.407128  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38298 -> 175.213.35.39:80
+01/11/2021-02:11:05.409095  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38304 -> 175.213.35.39:80
+01/11/2021-02:11:05.418152  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38308 -> 175.213.35.39:80
+01/11/2021-02:11:05.423618  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38306 -> 175.213.35.39:80
+01/11/2021-02:11:05.442966  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38310 -> 175.213.35.39:80
+01/11/2021-02:11:05.485007  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38310 -> 175.213.35.39:80
+01/11/2021-02:11:05.489889  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38296 -> 175.213.35.39:80
+01/11/2021-02:11:05.521811  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38306 -> 175.213.35.39:80
+01/11/2021-02:11:05.521767  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38308 -> 175.213.35.39:80
+01/11/2021-02:11:05.527100  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38304 -> 175.213.35.39:80
+01/11/2021-02:11:05.536356  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38298 -> 175.213.35.39:80
+01/11/2021-02:11:05.543102  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38304 -> 175.213.35.39:80
+01/11/2021-02:11:05.546131  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38308 -> 175.213.35.39:80
+01/11/2021-02:11:05.547642  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38306 -> 175.213.35.39:80
+01/11/2021-02:11:05.553152  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38296 -> 175.213.35.39:80
+01/11/2021-02:11:05.593807  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38298 -> 175.213.35.39:80
+01/11/2021-02:11:05.593859  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38310 -> 175.213.35.39:80
+01/11/2021-02:11:05.597739  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38304 -> 175.213.35.39:80
+01/11/2021-02:11:05.601802  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38308 -> 175.213.35.39:80
+01/11/2021-02:11:05.690135  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38304 -> 175.213.35.39:80
+01/11/2021-02:11:14.032806  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42100 -> 54.187.176.196:80
+01/11/2021-02:13:17.800673  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53314 -> 125.209.222.141:80
+01/11/2021-02:13:17.824043  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53830 -> 223.130.195.200:80
+01/11/2021-02:27:11.160208  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56900 -> 120.50.132.112:80
+01/11/2021-02:27:45.670466  [**] [1:10005:1] daum access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48150 -> 203.133.167.81:80
+01/11/2021-02:27:45.742452  [**] [1:10005:1] daum access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48158 -> 203.133.167.81:80
+01/11/2021-02:28:35.294481  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57346 -> 120.50.132.112:80
+01/11/2021-02:28:37.824111  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58370 -> 120.50.131.112:80
+01/11/2021-02:28:48.744975  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58418 -> 120.50.131.112:80
+01/11/2021-02:29:51.039209  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39746 -> 175.213.35.39:80
+01/11/2021-02:29:51.239482  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39748 -> 175.213.35.39:80
+01/11/2021-02:29:51.452182  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39746 -> 175.213.35.39:80
+01/11/2021-02:29:52.778707  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39746 -> 175.213.35.39:80
+01/11/2021-02:29:58.257499  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39746 -> 175.213.35.39:80
+01/11/2021-02:30:23.894145  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51450 -> 52.18.144.254:80
+01/11/2021-02:30:34.884001  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57652 -> 120.50.132.112:80
+01/11/2021-02:30:37.737884  [**] [1:10005:1] daum access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39302 -> 203.133.167.16:80
+01/11/2021-02:30:37.803819  [**] [1:10005:1] daum access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48656 -> 203.133.167.81:80
+01/11/2021-02:34:53.230858  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39750 -> 175.213.35.39:80
+01/11/2021-03:14:31.872847  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58336 -> 120.50.132.112:80
+01/11/2021-03:15:05.413217  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40758 -> 175.213.35.39:80
+01/11/2021-03:15:08.036651  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43810 -> 125.209.218.79:443
+01/11/2021-03:15:11.006115  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40758 -> 175.213.35.39:80
+01/11/2021-03:15:17.997886  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43904 -> 125.209.218.79:443
+01/11/2021-03:15:20.275206  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43908 -> 125.209.218.79:443
+01/11/2021-03:15:28.874505  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43920 -> 125.209.218.79:443
+01/11/2021-03:15:41.071629  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58682 -> 120.50.132.112:80
+01/11/2021-03:15:47.953538  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:44018 -> 125.209.218.79:443
+01/11/2021-03:16:05.781251  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58750 -> 120.50.132.112:80
+01/11/2021-03:16:08.142789  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:44076 -> 125.209.218.79:443
+01/11/2021-03:16:08.240532  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51490 -> 125.209.230.238:443
+01/11/2021-03:16:16.111633  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38894 -> 125.209.210.116:443
+01/11/2021-03:16:16.333808  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51494 -> 125.209.230.238:443
+01/11/2021-03:16:20.887125  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:44084 -> 125.209.218.79:443
+01/11/2021-03:16:20.930306  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51498 -> 125.209.230.238:443
+01/11/2021-03:16:25.275361  [**] [1:10006:1] nate access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58816 -> 120.50.132.112:80
+01/11/2021-03:16:27.755428  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51544 -> 125.209.230.238:443
+01/11/2021-03:18:26.677104  [**] [1:10005:1] daum access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:49820 -> 203.133.167.81:80
+01/11/2021-03:18:26.823240  [**] [1:10005:1] daum access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41654 -> 211.231.99.80:80
+01/11/2021-03:19:29.990694  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:54444 -> 125.209.222.142:443
+01/11/2021-03:19:30.568847  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:44370 -> 125.209.218.79:443
+01/11/2021-03:19:30.573992  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42144 -> 210.89.168.36:443
+01/11/2021-03:19:30.576223  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:56092 -> 175.158.5.161:443
+01/11/2021-03:19:30.637000  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48614 -> 210.89.167.4:443
+01/11/2021-03:19:30.698695  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51792 -> 125.209.230.238:443
+01/11/2021-03:19:42.738561  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50858 -> 54.200.72.161:443
+01/11/2021-03:19:42.742142  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50860 -> 54.200.72.161:443
+01/11/2021-03:20:23.211681  [**] [1:10007:1] youtube access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50042 -> 172.217.175.238:443
+01/11/2021-03:20:23.582037  [**] [1:10007:1] youtube access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:35854 -> 172.217.27.78:443
+01/11/2021-03:20:28.068418  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:59564 -> 44.242.60.85:443
+01/11/2021-03:20:30.904493  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53698 -> 52.33.30.162:443
+01/11/2021-03:20:30.907194  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53696 -> 52.33.30.162:443
+01/11/2021-03:28:18.476570  [**] [1:10008:1] github access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:58046 -> 52.78.231.108:443
+01/11/2021-03:28:18.772656  [**] [1:10008:1] github access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39968 -> 54.180.75.25:443
+01/11/2021-03:28:18.845188  [**] [1:10008:1] github access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39972 -> 54.180.75.25:443
+01/11/2021-03:28:22.017352  [**] [1:10012:1] google access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50422 -> 172.217.175.100:443
+01/11/2021-03:28:22.187499  [**] [1:10012:1] google access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50424 -> 172.217.175.100:443
+01/11/2021-03:28:25.854524  [**] [1:10009:1] kakao access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:51834 -> 211.249.221.27:443
+01/11/2021-03:28:26.435945  [**] [1:10009:1] kakao access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48094 -> 121.53.105.132:443
+01/11/2021-03:28:30.911588  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:36572 -> 52.194.114.57:443
+01/11/2021-03:28:31.453546  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42466 -> 54.230.62.120:443
+01/11/2021-03:28:31.455396  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42464 -> 54.230.62.120:443
+01/11/2021-03:28:31.458542  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42470 -> 54.230.62.120:443
+01/11/2021-03:28:31.460245  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42468 -> 54.230.62.120:443
+01/11/2021-03:28:32.308763  [**] [1:10012:1] google access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:49808 -> 172.217.27.68:443
+01/11/2021-03:28:33.953885  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:36210 -> 52.193.254.100:443
+01/11/2021-03:28:34.152242  [**] [1:10004:1] naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:42800 -> 223.130.195.31:443
+01/11/2021-03:28:34.248375  [**] [1:10010:1] jandi access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50134 -> 54.250.171.255:443
+01/11/2021-03:28:34.285774  [**] [1:10007:1] youtube access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:34602 -> 172.217.175.78:443
+01/11/2021-03:28:39.681425  [**] [1:10011:1] slack access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:46814 -> 52.198.217.116:443
+01/11/2021-03:28:41.691585  [**] [1:10012:1] google access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41470 -> 172.217.25.226:443
+01/11/2021-03:28:41.714369  [**] [1:10012:1] google access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41476 -> 172.217.25.226:443
+01/11/2021-03:28:41.736083  [**] [1:10012:1] google access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41468 -> 172.217.25.226:443
+01/11/2021-03:28:52.967761  [**] [1:10013:1] msn access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41240 -> 204.79.197.203:443
+01/11/2021-03:28:53.818191  [**] [1:10013:1] msn access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:43256 -> 40.81.31.55:443
+01/11/2021-03:28:53.914947  [**] [1:10013:1] msn access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38064 -> 111.221.29.254:443
+01/11/2021-03:28:54.008132  [**] [1:10013:1] msn access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:38066 -> 111.221.29.254:443
+01/11/2021-03:28:55.080556  [**] [1:10013:1] msn access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41368 -> 204.79.197.203:443
+01/11/2021-03:28:55.238228  [**] [1:10013:1] msn access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41378 -> 204.79.197.203:443
+01/11/2021-03:29:05.865857  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40312 -> 222.122.84.31:80
+01/11/2021-03:29:05.949724  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40316 -> 222.122.84.31:80
+01/11/2021-03:29:05.952409  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:05.954708  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:05.958059  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40322 -> 222.122.84.31:80
+01/11/2021-03:29:05.959206  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40324 -> 222.122.84.31:80
+01/11/2021-03:29:05.961567  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40316 -> 222.122.84.31:80
+01/11/2021-03:29:05.962943  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:05.966536  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:05.970666  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40324 -> 222.122.84.31:80
+01/11/2021-03:29:05.972089  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40316 -> 222.122.84.31:80
+01/11/2021-03:29:05.975092  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:05.978393  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40322 -> 222.122.84.31:80
+01/11/2021-03:29:05.983011  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:05.987593  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40324 -> 222.122.84.31:80
+01/11/2021-03:29:05.988420  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40316 -> 222.122.84.31:80
+01/11/2021-03:29:05.989977  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.034854  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:06.035911  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40322 -> 222.122.84.31:80
+01/11/2021-03:29:06.036310  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.047553  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:06.047830  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40322 -> 222.122.84.31:80
+01/11/2021-03:29:06.090587  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.090646  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:06.125741  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40322 -> 222.122.84.31:80
+01/11/2021-03:29:06.209357  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.234072  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.249464  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40322 -> 222.122.84.31:80
+01/11/2021-03:29:06.254030  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40320 -> 222.122.84.31:80
+01/11/2021-03:29:06.254850  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40312 -> 222.122.84.31:80
+01/11/2021-03:29:06.276095  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.289036  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.301737  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40316 -> 222.122.84.31:80
+01/11/2021-03:29:06.402325  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40318 -> 222.122.84.31:80
+01/11/2021-03:29:06.582813  [**] [1:10014:1] forensic-proof access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:47028 -> 151.101.196.134:80
+01/11/2021-03:29:15.666017  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60096 -> 116.67.62.66:443
+01/11/2021-03:29:15.948992  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60104 -> 116.67.62.66:443
+01/11/2021-03:29:15.950405  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60102 -> 116.67.62.66:443
+01/11/2021-03:29:15.952028  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60098 -> 116.67.62.66:443
+01/11/2021-03:29:15.955240  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60106 -> 116.67.62.66:443
+01/11/2021-03:29:15.968052  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60100 -> 116.67.62.66:443
+01/11/2021-03:29:16.520054  [**] [1:10015:1] mma access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45070 -> 116.67.63.33:443
+01/11/2021-03:29:20.905959  [**] [1:10016:1] katcmil access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40796 -> 211.236.124.36:443
+01/11/2021-03:29:21.237842  [**] [1:10016:1] katcmil access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40806 -> 211.236.124.36:443
+01/11/2021-03:29:21.251903  [**] [1:10016:1] katcmil access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40798 -> 211.236.124.36:443
+01/11/2021-03:29:21.259549  [**] [1:10016:1] katcmil access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40800 -> 211.236.124.36:443
+01/11/2021-03:29:21.260798  [**] [1:10016:1] katcmil access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40802 -> 211.236.124.36:443
+01/11/2021-03:29:21.262339  [**] [1:10016:1] katcmil access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:40804 -> 211.236.124.36:443
+01/11/2021-03:29:54.381801  [**] [1:10017:1] policegokr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57808 -> 116.67.83.27:443
+01/11/2021-03:29:54.959911  [**] [1:10017:1] policegokr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57812 -> 116.67.83.27:443
+01/11/2021-03:29:54.979021  [**] [1:10017:1] policegokr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57810 -> 116.67.83.27:443
+01/11/2021-03:29:54.980898  [**] [1:10017:1] policegokr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57814 -> 116.67.83.27:443
+01/11/2021-03:29:54.982943  [**] [1:10017:1] policegokr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57816 -> 116.67.83.27:443
+01/11/2021-03:29:54.997002  [**] [1:10017:1] policegokr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:57818 -> 116.67.83.27:443
+01/11/2021-03:30:03.557214  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60066 -> 3.34.235.79:443
+01/11/2021-03:30:03.738711  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37926 -> 52.85.231.63:443
+01/11/2021-03:30:03.743784  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37924 -> 52.85.231.63:443
+01/11/2021-03:30:03.749013  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37922 -> 52.85.231.63:443
+01/11/2021-03:30:03.749916  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37920 -> 52.85.231.63:443
+01/11/2021-03:30:03.871200  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:47098 -> 27.102.104.232:443
+01/11/2021-03:30:03.915070  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50452 -> 183.110.0.136:443
+01/11/2021-03:30:03.917686  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:50450 -> 183.110.0.136:443
+01/11/2021-03:30:04.052543  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45536 -> 13.124.37.56:443
+01/11/2021-03:30:04.054334  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39888 -> 211.39.128.206:443
+01/11/2021-03:30:04.057157  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:45534 -> 13.124.37.56:443
+01/11/2021-03:30:04.109456  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:44344 -> 183.110.0.64:443
+01/11/2021-03:30:04.110716  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:44342 -> 183.110.0.64:443
+01/11/2021-03:30:04.462321  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53984 -> 183.110.0.190:443
+01/11/2021-03:30:04.464170  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53982 -> 183.110.0.190:443
+01/11/2021-03:30:04.739355  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60402 -> 183.110.0.62:443
+01/11/2021-03:30:04.742274  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:60404 -> 183.110.0.62:443
+01/11/2021-03:30:04.896452  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39912 -> 211.39.128.206:443
+01/11/2021-03:30:04.905954  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39914 -> 211.39.128.206:443
+01/11/2021-03:30:07.234530  [**] [1:10018:1] nexon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:33046 -> 220.95.221.53:443
+01/11/2021-03:30:09.965062  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48644 -> 43.227.116.141:443
+01/11/2021-03:30:10.454931  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48646 -> 43.227.116.141:443
+01/11/2021-03:30:10.457457  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48648 -> 43.227.116.141:443
+01/11/2021-03:30:10.459850  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48650 -> 43.227.116.141:443
+01/11/2021-03:30:10.464763  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48652 -> 43.227.116.141:443
+01/11/2021-03:30:10.481966  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48654 -> 43.227.116.141:443
+01/11/2021-03:30:10.487154  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48656 -> 43.227.116.141:443
+01/11/2021-03:30:10.604606  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48670 -> 43.227.116.141:443
+01/11/2021-03:30:10.608233  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48672 -> 43.227.116.141:443
+01/11/2021-03:30:10.614115  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48674 -> 43.227.116.141:443
+01/11/2021-03:30:10.633776  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48676 -> 43.227.116.141:443
+01/11/2021-03:30:10.651082  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48678 -> 43.227.116.141:443
+01/11/2021-03:30:10.801801  [**] [1:10007:1] youtube access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:36694 -> 172.217.27.78:443
+01/11/2021-03:30:10.932051  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37482 -> 43.227.116.206:443
+01/11/2021-03:30:11.028436  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48688 -> 43.227.116.141:443
+01/11/2021-03:30:11.852466  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37488 -> 43.227.116.206:443
+01/11/2021-03:30:12.114847  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:48692 -> 43.227.116.141:443
+01/11/2021-03:30:12.118291  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37492 -> 43.227.116.206:443
+01/11/2021-03:30:12.120102  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37494 -> 43.227.116.206:443
+01/11/2021-03:30:12.122932  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37496 -> 43.227.116.206:443
+01/11/2021-03:30:12.124681  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37498 -> 43.227.116.206:443
+01/11/2021-03:30:12.204282  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37500 -> 43.227.116.206:443
+01/11/2021-03:30:12.300632  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37502 -> 43.227.116.206:443
+01/11/2021-03:30:12.304584  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37504 -> 43.227.116.206:443
+01/11/2021-03:30:12.306614  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37506 -> 43.227.116.206:443
+01/11/2021-03:30:12.309366  [**] [1:10019:1] hangame access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:37508 -> 43.227.116.206:443
+01/11/2021-03:30:14.028230  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53238 -> 183.110.55.51:80
+01/11/2021-03:30:14.129186  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53238 -> 183.110.55.51:80
+01/11/2021-03:30:14.143102  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53242 -> 183.110.55.51:80
+01/11/2021-03:30:14.143876  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53244 -> 183.110.55.51:80
+01/11/2021-03:30:14.156117  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53246 -> 183.110.55.51:80
+01/11/2021-03:30:14.158888  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53254 -> 183.110.55.51:80
+01/11/2021-03:30:14.159321  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53256 -> 183.110.55.51:80
+01/11/2021-03:30:14.160163  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:53244 -> 183.110.55.51:80
+01/11/2021-03:30:14.207197  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:39594 -> 103.105.156.218:80
+01/11/2021-03:30:14.290078  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:55870 -> 23.201.36.41:80
+01/11/2021-03:30:14.430791  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41466 -> 23.211.117.9:80
+01/11/2021-03:30:14.667908  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41466 -> 23.211.117.9:80
+01/11/2021-03:30:14.671341  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41460 -> 23.211.117.9:80
+01/11/2021-03:30:14.672090  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41468 -> 23.211.117.9:80
+01/11/2021-03:30:14.749215  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41468 -> 23.211.117.9:80
+01/11/2021-03:30:14.749276  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41466 -> 23.211.117.9:80
+01/11/2021-03:30:14.750248  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41460 -> 23.211.117.9:80
+01/11/2021-03:30:14.753333  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41464 -> 23.211.117.9:80
+01/11/2021-03:30:14.753120  [**] [1:10020:1] netmarble access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.153.131:41462 -> 23.211.117.9:80
